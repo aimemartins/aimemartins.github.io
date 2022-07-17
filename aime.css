@@ -1,0 +1,32 @@
+
+            body{   
+                    font-family: Montserrat, sans-serif;
+                    width: 600px;
+                    margin: 0 auto;
+                    background-color: rgb(236,226, 208);
+                    padding: 20px 20px 20px 20px;
+                    border: 5px solid rgb(109,46, 70);
+                }
+            p,li{
+                    color: #323f3a;
+                    font-size: 15px;
+                }
+            h4 {
+                    color:rgb(162,103, 105) ;
+            }
+            .borda-redonda {
+                  border-radius: 90px;
+                }
+                html {
+                    background-color: rgb(206,190, 190);
+                  }
+
+            #nome {
+                color: rgb(109,46, 70);
+                font-size: 20px;
+            }
+            #local {
+                color: rgb(162,103, 105);
+            }
+
+        
